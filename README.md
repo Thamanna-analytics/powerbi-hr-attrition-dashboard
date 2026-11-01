@@ -28,11 +28,11 @@ All pages have filters (department, job role, overtime), and the charts respond 
 
 ## Screenshots
 
-![Attrition Pulse](screenshots/1_Attrition_Pulse.png)
-![Drivers](screenshots/2_Drivers.png)
-![At-Risk Employees](screenshots/3_At_Risk.png)
-![Data and Method](screenshots/4_Data_and_Method.png)
-![Recommended Actions](screenshots/5_Actions.png)
+![Attrition Pulse](screenshot/1_Attrition_Pulse.png)
+![Drivers](screenshot/2_Drivers.png)
+![At-Risk Employees](screenshot/3_At_Risk.png)
+![Data and Method](screenshot/4_Data_and_Method.png)
+![Recommended Actions](screenshot/5_Actions.png)
 
 ## Key findings (in this sample dataset)
 
