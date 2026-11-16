@@ -3,7 +3,9 @@
 An interactive Power BI report that shows how many employees leave, why they leave, and which current employees are most at risk, with plain-language findings and recommended actions.
 
 **Data:** IBM HR Analytics Employee Attrition dataset (sample data created by IBM, not a real company)
+
 **Tools:** Power BI Desktop, Power Query, DAX
+
 **Author:** Thamanna Shameer | [LinkedIn](https://linkedin.com/in/thamanna-shameer-68623338a)
 
 ---
@@ -85,3 +87,4 @@ Among employees who have **not** left, 28 are High risk (2.3% of 1,233 current e
 | `screenshots/` | Screenshots of each report page |
 
 The original dataset is available on Kaggle: [IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset).
+
